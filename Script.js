@@ -1,1 +1,1 @@
-document.body.style.backgroundColor = "yellow";
+javascript:alert("Bookmarklet berjalan!");
